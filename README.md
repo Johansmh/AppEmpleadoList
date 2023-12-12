@@ -7,4 +7,4 @@ Aplicación desarrollada con Html, Css, Bootstrap y Angular
 * [linkedin](www.linkedin.com/in/johansmh)
 
 ## Ver ejemplo de la aplicación en el siguientes link
-* [https://appempleadolistjsmh.netlify.app/](hhttps://appempleadolistjsmh.netlify.app/)
+* [https://appempleadolistjsmh.netlify.app/](https://appempleadolistjsmh.netlify.app/)
